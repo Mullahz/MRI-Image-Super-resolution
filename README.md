@@ -1,0 +1,2 @@
+# MRI-Image-Super-resolution
+Diffusion weighted (DW) and Magnetic resonance Spectroscopy (MRS) imaging have proven to be useful for brain architecture analysis and in establishing any malfunction in brain tract organization and neuronal connectivity.  Despite their benefits over conventional MRI, low signal-to-noise ratio (SNR) limits their medical use.  Sparse representation based single image super resolution algorithm incorporated with non-local total variation regularization can increase the resolution.
